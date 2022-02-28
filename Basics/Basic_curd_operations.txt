@@ -1,0 +1,22 @@
+/* MongoDB is a cross-platform, document oriented database that provides, 
+high performance, high availability, and easy scalability. 
+MongoDB works on concept of collection and document */
+
+
+--------------> create and switch to new DB
+use MongoTraining
+
+
+--------------> To know the current selected DB
+
+db
+
+--------------> To List the dbs in the server
+
+show dbs
+
+---------------> Listing the collections in the database
+
+show collections 
+
+
